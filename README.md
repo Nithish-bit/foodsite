@@ -1,6 +1,14 @@
 food_Website_
 landing page for food website using HTML ,CSS and JavaScript dark mode and light mode is can be toggled image
 https://foodcite.netlify.app/
+
+
+
+
+
+
+
+
 ![image](https://github.com/Nithish-bit/food_Website_/assets/74695336/bb1d59cf-39e4-4567-bc28-5d2d21557db1)
 
 
